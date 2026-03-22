@@ -12,7 +12,9 @@ In particular, the Falcon 9 launch system is notable for its comparatively low c
 The primary goal of this project is to build a predictive model that determines whether a rocket booster will be successfully reused. This prediction serves as a proxy for estimating launch costs, enabling strategic decision-making for a competing company.
 
 ## Methodology
-- Data collection from publicly available SpaceX launch records  
+- Data collection from publicly available SpaceX launch records
+  - API
+  - Scraping      
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature engineering
